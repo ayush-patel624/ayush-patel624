@@ -1,43 +1,70 @@
-# Hi, I'm Ayush Patel! 👋
+<h1 align="center">Hi there, I'm Ayush Patel 👋</h1>
+<h3 align="center">Software Engineer & Machine Learning Builder</h3>
 
-I am an undergraduate student at the **Indian Institute of Information Technology Guwahati (IIITG)**, passionate about **Machine Learning**, **Speech Processing**, and building **resource-efficient AI solutions**. 
+<p align="center">
+  <em>B.Tech in Computer Science and Engineering @ Indian Institute of Information Technology, Guwahati (CGPA: 9.57)</em><br>
+  <em>Selected in Top 3,000 from 134,000+ applicants for the Amazon ML Summer School.</em>
+</p>
 
-I enjoy turning complex academic research into practical, lightweight tools that solve real-world problems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayush-patel-8145a7323/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:ayushpatel.work624@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://ayush-patel624.github.io/Portfolio"> 
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
 
----
+<hr>
 
-### 🛠 Tech Stack & Tools
+### 👨‍💻 About Me
 
-* **Languages:** Python, C++, Java, SQL
-* **ML/Data Science:** PyTorch, Scikit-learn, XGBoost, Transformers (HuggingFace), Pandas, NumPy
-* **Audio Processing:** Librosa, Torchaudio, SpeechBrain
-* **Tools:** Git, VS Code, Linux, Docker
+- 🔭 I’m currently working on building scalable **backend systems** and **machine learning products**.
+- 🌱 I recently built **VoiceRadar**, a production-ready deepfake audio detection system in PyTorch (2.544% EER).
+- ⚙️ Architected **Zivro**, an AI-assisted home service marketplace backend using **Java 21, Spring Boot, and MySQL**.
+- 💬 Ask me about **Java, Spring Boot, PyTorch, or Machine Learning Architecture**.
+- 📫 How to reach me: **[ayushpatel.work624@gmail.com](mailto:ayushpatel.work624@gmail.com)**
 
----
+### 🛠️ Tech Stack & Tools
 
-### 🚀 Featured Project: Audio Deepfake Detection
+**Programming Languages:**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-I recently developed a resource-efficient deepfake detection pipeline using **Wav2Vec 2.0** and classical machine learning. This project focuses on "Green AI"—achieving competitive detection performance (0.90% EER) using CPU-only training and minimal parameter counts (<1k trainable parameters).
+**Backend Development:**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-* **View the Repo:** [Audio-Deepfake-Detection](https://www.google.com/search?q=https://github.com/ayush-patel624/Deepfake-Audio-Detection-Project)
-* **Highlights:** * End-to-end CLI pipeline (Feature Extraction → Training → Evaluation).
-* Includes custom inference scripts for single-file testing.
-* Highly optimized for resource-constrained environments.
+**Machine Learning & Data Science:**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush-patel624&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-patel624&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-patel624&theme=radium&hide_border=true&background=0D1117" />
+</p>
 
-### 📈 GitHub Stats
-
----
-
-### 📫 Get in Touch
-
-* **Email:** [ayushpatel.work624.com]
-* **LinkedIn:** [https://www.linkedin.com/in/ayush-patel-8145a7323/]
-* **University:** IIIT Guwahati
-
-> *"I believe in writing code that is clean, efficient, and impactful."*
-
----
+<hr>
+<p align="center"><i>Building intelligent software that just works.</i></p>

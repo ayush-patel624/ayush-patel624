@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Patel! 👋
 
-I am an undergraduate student at the **Indian Institute of Information Technology Guwahati (IIITG)**, passionate about **Machine Learning**, **Speech Processing**, and building **resource-efficient AI solutions**.
+I am an undergraduate student at the **Indian Institute of Information Technology Guwahati (IIITG)**, passionate about **Machine Learning**, **Speech Processing**, and building **resource-efficient AI solutions**. 
 
 I enjoy turning complex academic research into practical, lightweight tools that solve real-world problems.
 

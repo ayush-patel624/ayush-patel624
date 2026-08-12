@@ -99,7 +99,7 @@
 
 ### 💼 Featured Projects
 
-#### 🎧 [VoiceRadar — Deepfake Audio Detection System](https://github.com/ayush-patel624)
+#### 🎧 [VoiceRadar — Deepfake Audio Detection System](https://github.com/maloth-anil/VoiceRadar-Voice-Deepfake-Detector)
 `PyTorch` `WavLM-Large` `HuBERT` `Python`
 - Production-ready deepfake audio detection achieving **2.544% EER**, **97.46% accuracy**, and **0.9957 ROC-AUC** on an 18,480-file cross-domain test split.
 - Trained and benchmarked across **ASVspoof5 Track 1, FakeOrReal, In-The-Wild**, and Kaggle Deepfake Audio Detection datasets.
@@ -123,7 +123,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayush-patel624&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-patel624&theme=tokyonight&hide_border=true" alt="Ayush's Streak Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=ayush-patel624&theme=tokyonight&hide_border=true" alt="Ayush's Streak Stats" height="165"/>
 </p>
 
 <p align="center">

@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on building scalable **backend systems** and **machine learning products**.
 - 🌱 I recently built **VoiceRadar**, a production-ready deepfake audio detection system in PyTorch (2.544% EER).
-- ⚙️ Architected **Zivro**, an AI-assisted home service marketplace backend using **Java 21, Spring Boot, and MySQL**.
+- ⚙️ Architected **Zivro**, a full-stack AI-assisted home service marketplace using **Java 21, Spring Boot, MySQL (Aiven), Google OAuth, and Cloudinary**, deployed across **Render and Vercel**.
 - 💬 Ask me about **Java, Spring Boot, PyTorch, or Machine Learning Architecture**.
 - 📫 How to reach me: **[ayushpatel.work624@gmail.com](mailto:ayushpatel.work624@gmail.com)**
 
@@ -43,8 +43,16 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**Cloud, Deployment & Services:**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aiven-FF3554?style=for-the-badge&logo=aiven&logoColor=white" />
 </p>
 
 **Machine Learning & Data Science:**

@@ -1,8 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary>    <h1 style="display: inline-block;  line-height: 100%;margin: 50px 0px 0px;">Hi 👋, I'm Ayush</h1>
-      <h4 style="display: inline-block; line-height: 40%;margin: 20px;">&nbsp&nbsp&nbsp<i>Formally</i></h4>
-    <h2 style="display: inline-block; line-height: 40%;margin: 20px;">&nbsp&nbsp<b>Ayush Patel</b></h2>
+    <summary>    <h1 style="display: inline-block;  line-height: 100%;margin: 50px 0px 0px;">Hi 👋, I'm Ayush Patel</h1>
   </ul>
     Hi, I'm Ayush Patel, a second-year B.Tech CSE student at IIIT Guwahati (9.57 CGPA) who enjoys turning ideas into working systems — from deepfake-audio detection models to full-stack platforms. I'm interested in machine learning, backend engineering, and how research and production code meet in the middle.</summary>
 </div>
@@ -94,7 +92,6 @@ Have any questions for me? Or just casual chat, feel free to dm me 😉
 
 ## 📊 GITHUB STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-patel624&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=ayush-patel624&theme=tokyonight&hide_border=true" alt="Ayush's Streak Stats" height="165"/>
 </p>
 

@@ -2,7 +2,7 @@
   <ul align="center">
     <summary>    <h1 style="display: inline-block;  line-height: 100%;margin: 50px 0px 0px;">Hi 👋, I'm Ayush Patel</h1>
   </ul>
-    Hi, I'm Ayush Patel, a second-year B.Tech CSE student at IIIT Guwahati (9.57 CGPA) who enjoys turning ideas into working systems — from deepfake-audio detection models to full-stack platforms. I'm interested in machine learning, backend engineering, and how research and production code meet in the middle.</summary>
+    Hi, I'm Ayush Patel, a third-year B.Tech CSE student at IIIT Guwahati (9.57 CGPA) who enjoys turning ideas into working systems — from deepfake-audio detection models to full-stack platforms. I'm interested in machine learning, backend engineering, and how research and production code meet in the middle.</summary>
 </div>
 
 <p align="center">
